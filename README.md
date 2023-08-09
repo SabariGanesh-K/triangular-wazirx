@@ -10,6 +10,4 @@ Step 2: Perform triangular arbitrage
 Step 3: Place the trade orders  
 Step 4: Bundle it together  
 
-Refer to this blog to understand more on triangular arbitrage implemented in this repo:  
-https://lakshmi1212.medium.com/automated-triangular-arbitrage-of-cryptos-in-4-steps-a678f7b01ce7
 
